@@ -1,7 +1,3 @@
 # Nils-Schaefer.github.io
-Just me, myself and I
 
-
-
-
-test 123
+This repository ist for my Webdesign testing
