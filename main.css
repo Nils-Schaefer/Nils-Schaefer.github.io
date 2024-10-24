@@ -6,7 +6,8 @@
     background-color: aqua;
     margin: 0;
     width: 20%;
-
+    align-items: center;
+    justify-content: center;
 }
 
 .leftSlide {
