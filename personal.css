@@ -39,35 +39,6 @@ body {
     background-size: cover;
 }
 
-.personalButton {
-    background-color: white;
-    background-image: url(./Graphics/headIcon.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: flex;
-    flex-direction: row;
-    border: 2px solid black;
-    height: 6rem;
-    width: 6rem;
-    margin: 2rem;
-    border-radius: 1rem;
-}
-
-.appButton {
-    background-color: white;
-    display: flex;
-    flex-direction: row;
-    border: 2px solid black;
-    height: 6rem;
-    width: 6rem;
-    margin: 2rem;
-    border-radius: 1rem;
-}
-
-.personal {
-    background-image: url(./Graphics/headIcon.png);
-}
-
 .lowerScreen {
     background-color: #999;
     width: 100%;
