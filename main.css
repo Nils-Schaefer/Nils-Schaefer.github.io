@@ -1,9 +1,13 @@
-body {
+.wrapper {
     background-image: url(./Graphics/Backwall.jpeg);
-    display: inline-flex;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+body {
+    margin: 0;
+    background-color: black;
 }
 
 .borderOutside {
