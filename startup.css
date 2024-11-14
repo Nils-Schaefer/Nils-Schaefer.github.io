@@ -1,0 +1,37 @@
+.wrapper {
+    background-image: url(./Backwall.jpeg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.borderOutside {
+    background-color: rgb(76, 71, 71);
+    border: 3px solid black;
+    border-radius: 2rem;
+    margin: 2vh 2vw;
+    height: 96vh;
+    width: 96vw;
+    display: flex;   
+    justify-content: center;
+    align-items: center; 
+    overflow: hidden;
+}
+
+.borderInside {
+    background-color: black;
+    height: 88vh;
+    width: 88vw;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    overflow: hidden;
+    border: 3px solid black;
+    color: whitesmoke;
+    font-size: 2rem;
+}
