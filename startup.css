@@ -35,3 +35,13 @@ body {
     color: whitesmoke;
     font-size: 2rem;
 }
+
+.loadingText {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
